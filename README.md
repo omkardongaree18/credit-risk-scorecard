@@ -73,7 +73,7 @@ Run the notebooks in order: 01 -> 02 -> 03 -> 04.
 credit-scorecard/
 ├── README.md
 ├── requirements.txt
-├── data/                  (put application_train.csv here)
+├── data/                  
 ├── notebooks/
 │   ├── 01_eda_data_prep.ipynb
 │   ├── 02_woe_iv_binning.ipynb
