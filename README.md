@@ -57,7 +57,7 @@ Add the "Approval rate vs bad rate" plot from notebook 04:
 
 ## How to Run
 ```bash
-git clone <your-repo-url>
+git clone
 cd credit-scorecard
 pip install -r requirements.txt
 # put application_train.csv in data/
