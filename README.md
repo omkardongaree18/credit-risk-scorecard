@@ -41,7 +41,9 @@ Paste the output of Section 4 in notebook 04 here.
 
 ### Cut-off trade-off
 Add the "Approval rate vs bad rate" plot from notebook 04:
-`![cutoff](images/cutoff_tradeoff.png)`
+
+<img width="749" height="409" alt="image" src="https://github.com/user-attachments/assets/e80b2573-8cd2-49b4-8075-288cf13cf7d7" />
+
 
 ## Key Learnings
 - WoE binning handles missing values and outliers without imputation, and keeps every variable on the same log-odds scale.
